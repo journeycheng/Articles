@@ -8,6 +8,11 @@ Authors: Don van der Drift and Shankar Iyer
 
 Topics play several crucial roles in Quora’s ecosystem of knowledge. For example, people follow topics to indicate their interests, which helps us show them content that they'll find valuable and engaging. Meanwhile, when people add questions, they tag them with relevant topics so that the question can be channeled to answerers who have relevant expertise, as well as to those who want to learn more about the matter. To complement this, people identify topics in which they have specialist knowledge and about which they can provide compelling answers, either on their profile pages or through their topic bios. This is definitely not an exhaustive list: in these and many other ways, topics form an important organizational backbone for Quora's corpus of knowledge.
 
+主题在Quora的知识体系中发挥了重要的作用。例如，用户密切关注的主题表明了他们的兴趣所在，这有助于我们为用户提供相关有价值的的内容。用户在添加问题时，同时贴上相关的标签，这样不仅方便被相关领域的专业人士看到，也方便其它人继续关注这个问题。为了补充
+
+
+
+
 This backbone will only become more essential as that corpus continues to grow. Early on, Quora's Silicon Valley roots allowed it to quickly become a great platform for questions on Startups and Entrepreneurship. Over the past few years though, people from all over the world have joined, bringing with them their diverse passions and interests. Our goal is to become the Internet's best source for knowledge on as many of these topics as possible. Achieving this requires both diversification into new domains of knowledge and a scalable scheme for organizing content as it's added. We recently looked into how we're doing in both of these areas, finding that:
 
 1. People are creating quality content on a rapidly growing number of topics, and
